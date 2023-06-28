@@ -1,0 +1,94 @@
+INDEX.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document1</title>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+
+ <h1>HOME WORK Aliaksei Zaviarzhenets 27.06.2023</h1>
+    <h1>the best bicycle in the city</h1> 
+
+ <div class="container">
+    <h1>electric bicyclee</h1> 
+    
+    <img class= img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\Без названия.jfif" alt="">
+
+<p> An electric bicycle (e-bike, eBike, etc.) is a motorized bicycle with an integrated
+    electric motor used to assist propulsion. Many kinds of e-bikes are available worldwide, 
+    but they generally fall into two broad categories: bikes that assist the rider's pedal-
+    power (i.e. pedelecs) and bikes that add a throttle, integrating moped-style functionality.
+    Both retain the ability to be pedaled by the rider and are therefore not electric motorcycles. 
+    E-bikes use rechargeable batteries and typically are motor-powered up to 25 to 32 km/h (16 to 20 mph).
+    High-powered varieties can often travel more than 45 km/h (28 mph).
+ </p>
+ </div>
+
+<br>
+<br>
+<br>
+
+ <div class="container">
+    <h1>Hybrid bicycle</h1>
+
+    <img class= img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\Без названия (1).jfif" alt="">
+
+    <p>A hybrid bike starts with a traditional road bike platform: fast-rolling 700c wheels and 
+    a lightweight, efficient frame. But while a road bike typically comes outfitted with a drop bar, 
+    a hybrid bike’s signature feature is a flat handlebar. This provides a wide hand stance for better 
+    control, easy brake-lever access, and a more upright position that’s comfortable and conducive 
+    to looking over a shoulder in traffic. These are just a few of the reasons why new cyclists 
+    and commuters are often drawn to this type of bike.</p>
+ </div>
+
+ <br>
+ <br>
+ <br>
+
+
+ <div class="container"> 
+    <h1>classic bycicle</h1>
+<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\1280px-Left_side_of_Flying_Pigeon.jpg" alt="">
+
+    <p>A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-powered assisted, 
+        pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider 
+        is called a cyclist, or bicyclist.
+        Bicycles were introduced in the 19th century in Europe. By the early 21st century there were more than
+        1 billion.[1][2][3] These numbers far exceed the number of cars, both in total and ranked by the number 
+        of individual models produced.[4][5][6] They are the principal means of transportation in many regions.  
+        They also provide a popular form of recreation, and have been adapted for use as children's toys,
+        general fitness, military and police applications, courier services, bicycle racing, and bicycle stunts.
+        The basic shape and configuration of a typical upright or "safety bicycle", has changed little since the 
+        first chain-driven model was developed around 1885.[7][8][9] However, many details have been improved,
+        especially since the advent of modern materials and computer-aided design. These have allowed for a 
+        proliferation of specialized designs for many types of cycling. In the 21st century electric bicycles 
+        have become popular.
+        The bicycle's invention has had an enormous effect on society, both in terms of culture and of advancing 
+        modern industrial methods. Several components that played a key role in the development of the automobile 
+        were initially invented for use in the bicycle, including ball bearings, pneumatic tires, chain-driven sprockets 
+        tension-spoked wheels.[10]</p>
+ </div>
+
+</body>
+</html>
+
+
+
+css/styles.css
+
+
+.container {
+   border-radius: 20px;
+   background-color: #34495e;
+   padding: 21px;
+}
+
+.img{
+    border-radius: 10px;
+    width: 100px;
+}
+
